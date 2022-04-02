@@ -1,0 +1,30 @@
+.row {
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.navbar-brand {
+    font-size: 100;
+}
+
+.nav-item {
+    margin: 1rem;
+}
+
+.card {
+    margin: 1rem;
+    display: flex;
+}
